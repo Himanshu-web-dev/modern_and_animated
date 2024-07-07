@@ -3,6 +3,6 @@ import react from "@vitejs/plugin-react";
 
 // https://vitejs.dev/config/
 export default defineConfig({
-  base:"/modern_animated_website/",
+  base: "/animated_landing_page/",
   plugins: [react()],
 });
