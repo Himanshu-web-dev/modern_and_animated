@@ -18,10 +18,10 @@ const LandingPage = () => {
                 {index === 1 && (
                   <motion.div
                     initial={{ width: "0" }}
-                   whileInView={{ width: "10vw" }}
+                    whileInView={{ width: "10vw" }}
                     transition={{ ease: easeInOut, duration: 1 }}
                     className="w-[9vw] h-[6vw] relative
-                  top-[1vw] bg-green-500"
+                  top-[.8vw] bg-green-500"
                   ></motion.div>
                 )}
                 <h1 className="uppercase tracking-tighter leading-[7vw] text-[8vw] font-sans font-extrabold text-white">

@@ -24,7 +24,7 @@ const Footer = () => {
         </div>
       </div>
       <div className=" rightcontainer w-1/2  text-white flex flex-col">
-        <div className="presentation md:text-center w-full h-1/4 font-extrabold md:text-7xl lg:text-8xl sm:text-2xl">
+        <div className="presentation md:text-center w-full h-1/4 font-extrabold md:text-5xl lg:text-7xl sm:text-2xl underline">
           Presentation
         </div>
         <div className="links w-full h-full  flex p-2 growtesk tracking-tighter">

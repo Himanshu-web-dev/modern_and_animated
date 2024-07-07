@@ -1,12 +1,12 @@
 {
-  "homepage": "https://github.com/Himanshu-web-dev/Modern_animated_site",
+  "homepage": "https://Himanshu-web-dev.github.io/modern_animated_website/",
   "name": "hd-designs",
   "private": true,
   "version": "0.0.0",
   "type": "module",
   "scripts": {
-    "predeploy": "npm run build",
-    "deploy": "gh-pages -d dist",
+"predeploy":"npm run build",
+"deploy": "gh-pages -d dist",
     "dev": "vite",
     "build": "vite build",
     "lint": "eslint . --ext js,jsx --report-unused-disable-directives --max-warnings 0",
